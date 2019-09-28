@@ -1,0 +1,11 @@
+===========================================================
+Pada hari ke satu di praxis academy :
+1.  Installasi NodeJs
+2.  Installasi GitBash
+3.  Installasi PosMan
+4.  Installasi VS Code
+5.  Installasi nodemon, Express, pada npm NodeJs
+6.  Menyesuaikan File Package.Json dengan mengisi :
+      - "start": "app.js";
+      - "dev: "nodemon.js";
+    pada script
