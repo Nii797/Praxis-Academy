@@ -103,7 +103,7 @@
         )
     })
 
-    app.post("/rumurluaslingkaran", (req, res) => {
+    app.post("/rumusluaslingkaran", (req, res) => {
         let jari1, jari2, luas 
             phl = 3.14 
         
@@ -120,7 +120,6 @@
         return res.send(`
             Hasil dari Luas Lingkaran Adalah : ${luas}
         `)
-        
     })
 
     // app.post("/PilihanOrangKece", (req, res) => {
